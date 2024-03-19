@@ -152,3 +152,7 @@ function scatteringMatrix(ω::Number, cr::CoupledResonators)
 end
 
 
+"""
+Ordering:
+(q1[+] p1[+] q2[+] p2[+] q1[-] p1[-] q2[-] p2[-])
+"""
